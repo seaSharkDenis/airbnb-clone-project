@@ -85,7 +85,7 @@ A smooth booking experience leaves a positive impression, encouraging repeat use
 
 ---
   
-**3. Software Development Team Roles and Responsibilities**  
+**3. Project Roles and Responsibilities**  
 
 **Project Managers (PM)**  
 
