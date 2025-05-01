@@ -1,8 +1,12 @@
 # airbnb-clone-project
+
 ---
+
 **Project Description**
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
+
 ---
+
 **Learning Objectives**
 By completing this project, you will:
 
@@ -11,12 +15,16 @@ By completing this project, you will:
   . Practice working in a team with defined roles
   . Develop skills in component-based frontend architecture
   . Learn best practices for web application development
+  
 ---
+
 **Tech Stack**
   **. Frontend**: HTML, CSS, JavaScript (React or similar framework)
   **. Version Control**: Git and GitHub
   **. Design Tools**: Figma for UI/UX design
+  
 ---
+
 **Requirements**
 **1. Project Initialization**
   Set up GitHub repository with proper documentation
@@ -27,12 +35,14 @@ By completing this project, you will:
   Create page descriptions for main views
   Analyze Figma design specifications
   Identify color schemes and typography
+  
   ---
+  
   UI/UX Design Planning
   Design goals:
-  1. Property Listing View - The home page is the main page of the AirBnB clone. The home page shoes variour listings available, with a title, price and a description for the user. The modern design focuses on a user-friendly navigation and user appeal.
-  2. Listing Detailed View- This page provides a detailed view of specific property listing within the AirBnB clone. The page provides key features such as property's name, location, price and details such as amenities.
-  3. Checkout View - This page provides a user with a smoooth experience when booking or reserving the property they have selected. This can include the dates, number gof guests, and finalization of the booking.
+  1. Property Listing View - The home page is the main page of the AirBnB clone.    The home page shoes variour listings available, with a title, price and a         description for the user. The modern design focuses on a user-friendly            navigation and user appeal.
+  2. Listing Detailed View- This page provides a detailed view of specific          property listing within the AirBnB clone. The page provides key features such     as property's name, location, price and details such as amenities.
+  3. Checkout View - This page provides a user with a smoooth experience when       booking or reserving the property they have selected. This can include the        dates, number gof guests, and finalization of the booking.
 
 Importance of a user-friendly design in a booking system
 A user-friendly design is crusical in a booking system for the folllowing key reasons:
@@ -50,7 +60,9 @@ User-friendly systems cater to a broader audience, including users with disabili
 
 **e. Improved Customer Satisfaction and Loyalty**
 A smooth booking experience leaves a positive impression, encouraging repeat use and customer retention.
+
   ---
+  
 **3. Roles and Responsibilities**
   Define team structure and responsibilities
   Document each role’s contribution to the project
