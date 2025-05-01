@@ -61,6 +61,24 @@ User-friendly systems cater to a broader audience, including users with disabili
 **e. Improved Customer Satisfaction and Loyalty**
 A smooth booking experience leaves a positive impression, encouraging repeat use and customer retention.
 
+**Color Styles and Typography**
+**Primary Color**: 34967C
+**Secondary Colors**: 161117, FFA800
+**Shimmer**: Linear
+
+**Font**: Quicksand
+**Font-size**: 16
+**Font-weight**: Medium
+**Line height**: 35
+**Letter spacing**: 0%
+
+**Imporance of identifying Design Properties of a Mockup**
+**1. Consistency in Development** - Developers need accurate design properties (colors, fonts, spacing) tomatch the UI precisely as intended.
+**2. Reusable Components** - Identifying design tokens (colors, typography) helps build reusable components in design systems or UI libraries.
+**3. Improved Handoff Between Teams** - Designers, developers, and QA testers can communicate better when design properties are clearly defined and understood.
+**4. Better User Experience** - Consistent visual styles contribute to a more polished, cohesive, and user-friendly interface.
+**5. Brand alignment** - Ensures all components reflect the correct brand identity (e.g., font, color palette, logo usage).
+
   ---
   
 **3. Roles and Responsibilities**
