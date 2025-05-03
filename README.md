@@ -170,6 +170,43 @@ A smooth booking experience leaves a positive impression, encouraging repeat use
 
 ---
   
-**4. UI Component Patterns**
-  Plan reusable UI components
-  Document component architecture
+**4. UI Component Patterns**  
+This section outlines the key reusable UI components that will form the foundation of the AirBnB Clone interface. These components are built with consistency and scalability in mind, allowing for efficient design and development across the application.  
+**Navbar**  
+The Navbar component will serve as the primary navigation element across the site.  
+Features include:  
+- Logo/brand on the left  
+- Navigation links (e.g., Explore, Wishlist, Login)  
+- Search bar (responsive)  
+- User account dropdown or icon  
+
+**Property Card**  
+The Property Card component displays individual listings. It will be used across the homepage and search results pages.  
+Features include:  
+- Thumbnail image  
+- Property title and location  
+- Price per night  
+- Rating and number of reviews  
+- Clickable for more details  
+
+**Footer**  
+The Footer component provides navigation and legal information at the bottom of every page.  
+Features include:  
+- Site-wide navigation links (About, Careers, Help, etc.)  
+- Social media icons  
+- Copyright and terms  
+
+**Button (Shared Component)**  
+Reusable button component for actions like “Book Now”, “Search”, and “Login”.  
+Variants: Primary, Secondary, Disabled, Small, Large  
+
+**Modal**  
+The Modal component is used for displaying pop-ups such as login forms or filters.  
+Features include:  
+- Overlay background  
+- Scroll locking  
+- Close icon  
+
+**Input Field**  
+- Generic form input used across search, login, booking, and filter forms.  
+- Types include: Text, Date Picker, Dropdown  
